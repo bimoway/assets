@@ -1,0 +1,19 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31.9337 50.8045L19 38.6206L28.1848 38.2457L28.3722 29.8107L40.931 42.557V50.8045H31.9337Z" fill="#009540"/>
+<path d="M31.9337 50.8045L19 38.6206L28.1848 38.2457L28.3722 29.8107L40.931 42.557V50.8045H31.9337Z" stroke="#1D1D1B" strokeWidth="0.656056" stroke-miterlimit="3.8637"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M47.6789 50.6171L72.7965 75.1723H22.9363L47.6789 50.6171Z" fill="#1D1D1B"/>
+<mask id="mask0_4375_8842" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="22" y="50" width="51" height="26">
+<path d="M47.6789 50.6171L72.7965 75.1723H22.9363L47.6789 50.6171Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_4375_8842)">
+<path d="M34.5581 61.8638H62.1124V63.5508H34.5581V61.8638Z" fill="#009540"/>
+<path d="M25.3732 67.6745H68.1105V69.5489H25.3732V67.6745Z" fill="#009540"/>
+</g>
+<path d="M47.6789 50.6171L72.7965 75.1723H22.9363L47.6789 50.6171Z" stroke="#1D1D1B" strokeWidth="0.859995" stroke-miterlimit="3.8637"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M47.4918 48.1803L53.8649 41.6198V24.1874L47.3043 30.5606L41.1187 24V41.8072L47.4918 48.1803Z" fill="#009540"/>
+<path d="M47.4918 48.1803L53.8649 41.6198V24.1874L47.3043 30.5606L41.1187 24V41.8072L47.4918 48.1803Z" stroke="#1D1D1B" strokeWidth="0.656056" stroke-miterlimit="3.8637"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M54.052 41.8072L66.7982 29.2484V38.4332L75.7956 38.6206L62.8619 50.6171L54.2394 50.8045L54.052 41.8072Z" fill="#009540"/>
+<path d="M54.052 41.8072L66.7982 29.2484V38.4332L75.7956 38.6206L62.8619 50.6171L54.2394 50.8045L54.052 41.8072Z" stroke="#1D1D1B" strokeWidth="0.656056" stroke-miterlimit="3.8637"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M81.0441 50.8044H63.0494L56.6763 57.1776L62.6745 63.1758H81.0441L74.6709 57.1776L81.0441 50.8044Z" fill="#009540"/>
+<path d="M81.0441 50.8044H63.0494L56.6763 57.1776L62.6745 63.1758H81.0441L74.6709 57.1776L81.0441 50.8044Z" stroke="#1D1D1B" strokeWidth="0.656056" stroke-miterlimit="3.8637"/>
+</svg>
